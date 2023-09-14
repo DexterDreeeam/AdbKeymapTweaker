@@ -4,6 +4,10 @@
         "window_keyword": "MuMu模拟器",
         "adb_path": "C:/Program Files/Netease/MuMuPlayer-12.0/shell/adb.exe",
         "adb_ip_port": "127.0.0.1:16384",
+        "player": {
+            "x": 0.5,
+            "y": 0.5
+        },
         "keys": {
             "1": "click 0.2 0.08",
             "2": "click 0.25 0.08",
